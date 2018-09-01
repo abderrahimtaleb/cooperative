@@ -1,0 +1,46 @@
+/*.banner{
+text-align: right;
+margin-bottom: 26px;
+}
+*/
+body
+{
+	background: url(images/bg.jpg);
+}
+
+.footer{
+	text-align: center;
+	padding: 8px;
+
+}
+
+/*
+    ul li a:hover{
+        color: #fff;
+        background: #939393;*/
+   /* }*/
+  /*  ul :hover ul{
+        display: block; /* display the dropdown */
+
+.ce{
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+    text-align: center;
+}
+
+/*.active{pointer-events: none}*/
+
+.dropdown:hover .dropdown-menu {
+display: block;
+}
+
+/*#active{pointer-events: none}*/
+
+
+@import url(http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css);
+.fa-fw {width: 2em;}
+
+/*.area{pointer-events: none}*/
+
+#select{height: 15em;}
